@@ -20,5 +20,7 @@ int main(void) {
 	printf("the number is positive");
 	}
 	else
+	{
+		printf("invalid input");
 	return 0;
 }
